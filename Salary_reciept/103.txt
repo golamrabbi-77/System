@@ -1,0 +1,18 @@
+ 	Company Name, XYZ
+	Address: Xyz, Floor4
+------------------------------------------------
+ Employee ID		: 102
+ Salary Of		: Feb-2022
+ Generated On		: 17-03-2022
+------------------------------------------------
+ Total Days		: 28
+ Total Present		: 26
+ Total Absent		: 2
+ Convence		: Tk.50
+ Medical		: Tk.50
+ PF		: Tk.15
+ Gross Payment		: Tk.2500
+ Net Salary		: Tk.2306.43
+------------------------------------------------
+This is computer generated slip
+
